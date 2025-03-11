@@ -35,18 +35,18 @@ header a, footer a, aside a
   color: inherit
 
 header time
-  color: reduce(100)
+  color: lighten($dark, 40%) // Adjusted function
 
 hr
-  border: 1px solid reduce(30)
+  border: 1px solid lighten($dark, 30%) // Adjusted function
   margin: 2em 0
 
 article:not(:last-of-type)
-  border-bottom: 1px solid reduce(14)
+  border-bottom: 1px solid lighten($dark, 14%) // Adjusted function
 
 blockquote
-  background: reduce(6)
-  border-left: 3px solid reduce(90)
+  background: lighten($dark, 6%) // Adjusted function
+  border-left: 3px solid lighten($dark, 90%) // Adjusted function
   padding: 1px 1.5em
   opacity: .75
 
@@ -70,26 +70,26 @@ table
   overflow-y: scroll
   border-spacing: 1px
   border-radius: 2px
-  box-shadow: 0 0 0 1px reduce(12) inset
+  box-shadow: 0 0 0 1px lighten($dark, 12%) inset // Adjusted function
 
 th, td
   padding: .5em 1em
-  box-shadow: 0 0 0 1px reduce(12)
+  box-shadow: 0 0 0 1px lighten($dark, 12%) // Adjusted function
 
 tr:hover, tr:nth-child(odd) td
-  background: reduce(4)
+  background: lighten($dark, 4%) // Adjusted function
 
 pre
-  background: reduce(12)
+  background: lighten($dark, 12%) // Adjusted function
   border-radius: 2px
   font-size: .8em
   margin: 1.5em 0
   padding: .8em 1.2em
   overflow-x: auto
 
-\:not(pre) > code
+:not(pre) > code
   font-size: .9em
-  background: reduce(15)
+  background: lighten($dark, 15%) // Adjusted function
   opacity: .7
   border-radius: 2px
   margin: 0 .1em
