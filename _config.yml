@@ -1,6 +1,6 @@
 title: "Avra Janz"
 author: "Avra Janz"
-# description: "New York University"
+description: "New York University"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
