@@ -1,11 +1,6 @@
 body
   display: flex
   flex-direction: column
-  align-items: center // Centers the content horizontally
-
-.container
-  width: 50% // Sets the width to the middle 60% of the screen
-  margin: 0 auto // Centers it horizontally
 
 article
   flex-grow: 1
@@ -16,14 +11,16 @@ body > header, body > footer
   align-items: center
   justify-content: space-between
 
-body > header, body > article, body > footer
-  padding: 2em
+body > header, 
+body > article, 
+body > footer
+  padding: 1.5em 5em  // Increase left and right padding to 3em
 
 article header
-  margin-bottom: 2em
+  margin-bottom: 1.5em
 
 article header h1
-  font-size: 2em
+  font-size: 1.7em
   margin: 0 0 .1em
 
 nav
