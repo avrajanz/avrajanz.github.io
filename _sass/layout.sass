@@ -1,15 +1,23 @@
 body
   display: flex
   flex-direction: column
-  align-items: center // Ensures everything is centered horizontally
+  align-items: center // Centers the content horizontally
+
+.container
+  width: 60% // Sets the width to the middle 60% of the screen
+  margin: 0 auto // Centers it horizontally
 
 article
   flex-grow: 1
 
+body > header, body > footer
+  display: flex
+  flex-wrap: wrap
+  align-items: center
+  justify-content: space-between
+
 body > header, body > article, body > footer
-  max-width: 45% // Centers content in the middle third of the screen
-  margin: 0 auto // Centers the layout horizontally
-  padding: 2em 0 // Keeps vertical spacing but removes unnecessary side padding
+  padding: 2em
 
 article header
   margin-bottom: 2em
