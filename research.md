@@ -1,5 +1,3 @@
-## Research Interests
-
 📖 **Narratives and Cultural Change:** In my dissertation, I use computational methods to trace the emergence and evolution of cultural ideas about the self, identity, and agency. Drawing on an original, large-scale dataset of digitized autobiographies, I map the historical development of now-ubiquitous ideas about the self--like the importance of being "hardworking" or "emotionally expressive." My research pinpoints the origins of gendered fractures in cultural conceptions of the self.
 
 📊 **Causal Modeling and Language Use:** I'm also interested in modeling the causes and consequences of discursive trends.  With [Dennis Yi Tenen](https://dennistenen.com/) and [Moacir P. de Sá Pereira](https://moacir.com/), I'm modeling the impact of a 1990s GOP initiative that encouraged Republicans to use specific, emotionally charged terms on political speech. With [Siwei Cheng](https://siwei-cheng.github.io/), I'm investigating how references to specific topics in sociological conference papers shape their probability of eventual publication.
