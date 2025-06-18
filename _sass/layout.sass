@@ -1,36 +1,36 @@
+html, body
+  margin: 0
+  padding: 0
+  overflow-x: hidden       // prevent horizontal scrolling on small screens
+
 body
   display: flex
   flex-direction: column
+  min-height: 100vh
+
+header, footer, article
+  width: 100%              // ensure full-width background blocks
 
 article
   flex-grow: 1
 
-// Remove outer padding since the container handles it
 body > header, body > footer
-  padding: 0
+  padding: 0               // no extra padding outside container
 
+// Shared content wrapper
 .container
   max-width: 700px
   width: 100%
   margin: 0 auto
-  padding: 1.5em 2em
+  padding: 1.5em 2em       // adjust for mobile-friendly spacing
 
-// Arrange title and nav horizontally inside the header
+// Header: title + nav aligned in one line
 header .container
   display: flex
-  flex-wrap: wrap         // allow wrap on smaller screens
+  flex-wrap: wrap
   align-items: center
   justify-content: space-between
-  gap: 0.5em              // optional: control spacing on wrap
-
-footer .container
-  display: flex
-  flex-wrap: wrap           // allows wrap on small screens
-  align-items: center
-  justify-content: space-between
-  gap: 0.5em                // optional: spacing when wrapped
-  padding: 1.5em 2em
-  font-size: 0.9em          // optional: slightly smaller footer text
+  gap: 0.5em               // optional spacing between wrapped lines
 
 .title
   margin: 0
@@ -38,6 +38,17 @@ footer .container
   font-size: 1.5em
   line-height: 1.2
 
+// Footer: description + links in one line
+footer .container
+  display: flex
+  flex-wrap: wrap
+  align-items: center
+  justify-content: space-between
+  gap: 0.5em
+  padding: 1.5em 2em
+  font-size: 0.9em
+
+// Article content header (h1 etc.)
 article header
   margin-bottom: 1em
 
@@ -45,6 +56,7 @@ article header h1
   font-size: 1.7em
   margin: 0
 
+// Nav styling (active if/when used)
 nav
   margin: 0
 
