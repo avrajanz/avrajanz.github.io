@@ -1,7 +1,7 @@
 ---
 layout: page
+title: Research
 ---
-### Research 
 My research uses computational methods to trace the evolution of cultural ideas about identity. I also use field experiments to examine how complex and intersecting identity signals shape access to resources.
 
 #### 📖 Narratives and Cultural Ideas
@@ -15,4 +15,4 @@ I use experiments to investigate how individuals respond to multifaceted present
 
 <hr style="width: 1in; margin-top: 2em; margin-bottom: 0.5em; border: 1px solid #ccc;">
 
-Prior to beginning my Ph.D., I studied cross-national wealth inequality trends with economists [William Darity, Jr.](https://sanford.duke.edu/profile/william-darity/) and [Omer Ali](https://www.econ.pitt.edu/people/omer-ali). Our short article is published in [_AEA Papers & Proceedings_](https://www.aeaweb.org/articles?id=10.1257/pandp.20211114), and our extended working paper is available [here](https://drive.google.com/file/d/1WiS8UY9gyljMAsCYgRwJMZGVYdeyaoz2/view).
+Prior to beginning my Ph.D., I studied cross-national wealth inequality trends with economists [William Darity, Jr.](https://sanford.duke.edu/profile/william-darity/) and [Omer Ali](https://www.econ.pitt.edu/people/omer-ali) and anthropologist [Marta Sánchez](https://people.uncw.edu/sanchezm/). Our short article is published in [_AEA Papers & Proceedings_](https://www.aeaweb.org/articles?id=10.1257/pandp.20211114), and our extended working paper is available [here](https://drive.google.com/file/d/1WiS8UY9gyljMAsCYgRwJMZGVYdeyaoz2/view).
