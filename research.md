@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Research
 ---
 
 📖 **Narratives and Cultural Change:** In my dissertation, I use computational methods to trace the emergence and evolution of cultural ideas about the self, identity, and agency. Drawing on an original, large-scale dataset of digitized autobiographies, I map the historical development of now-ubiquitous ideas about the self--like the importance of being "hardworking" or "emotionally expressive." My research pinpoints the origins of gendered fractures in cultural conceptions of the self.
 
-📊 **Causal Modeling and Language Use:** I'm also interested in modeling the causes and consequences of discursive trends.  With [Dennis Yi Tenen](https://dennistenen.com/) and [Moacir P. de Sá Pereira](https://moacir.com/), I'm modeling the impact of a 1990s GOP initiative that encouraged Republicans to use specific, emotionally charged terms on political speech. With [Siwei Cheng](https://siwei-cheng.github.io/), I'm investigating how references to specific topics in sociological conference papers shape their probability of eventual publication.
+📊 **Causal Modeling and Language Use:** I also model the causes of discursive trends and the consequences of language and framing choices.  With [Dennis Yi Tenen](https://dennistenen.com/) and [Moacir P. de Sá Pereira](https://moacir.com/), I'm modeling the impact of a 1990s GOP initiative that encouraged Republicans to use emotionally charged terms on long-term speech trends in Congress. With [Siwei Cheng](https://siwei-cheng.github.io/), I'm investigating how the topical focus and framing of sociological conference papers shape their probability of eventual publication.
 
 🧑‍🦽 **Intersectional Identities and Discrimination:** I use experiments to investigate how individuals respond to multifaceted presentations of identity. With Nnamdi Jogwe, I fielded a large-scale audit study on racialized disability discrimination, sending matched actors to visit 1,600 businesses in NYC to request to urgently access the restroom due to their disability. With [Gunn Birkelund](https://www.sv.uio.no/iss/english/people/aca/gunnb/) and [Edvard Nergård Larsen](https://www.samfunnsforskning.no/english/people/res/edvardnl/), I've published a meta-analysis on gender-based hiring discrimination in male- and female-dominated occupations.
 
