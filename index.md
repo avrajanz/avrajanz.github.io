@@ -10,7 +10,7 @@ In fall 2025, I will be in research residency at New York University--Paris.
 
 <br />
 
-### Research Interests
+## Research Interests
 
 📖 **Narratives and Cultural Change:** In my dissertation, I use computational methods to trace the emergence and evolution of cultural ideas about the self, identity, and agency. Drawing on an original, large-scale dataset of digitized autobiographies, I map the historical development of now-ubiquitous ideas about the self--like the importance of being "hardworking" or "emotionally expressive." My research pinpoints the origins of gendered fractures in cultural conceptions of the self.
 
