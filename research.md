@@ -2,7 +2,7 @@
 layout: page
 ---
 ### Research 
-My research uses computational methods to trace the evolution of cultural ideas about identity and the self. I also use field experiments to examine how intersecting presentations of identity shape access to resources.
+My research uses computational methods to trace the evolution of cultural ideas about identity. I also use field experiments to examine how intersecting presentations of identity shape access to resources.
 
 #### 📖 Narratives and Cultural Ideas
 In my dissertation, I use computational methods to trace the emergence and **evolution of cultural ideas about the self, identity, and agency**. Drawing on an original, large-scale dataset of digitized autobiographies, I map the historical development of now-ubiquitous ideas about the self--like the importance of being "hardworking" or "emotionally expressive." My research pinpoints the origins of gendered fractures in cultural conceptions of the self.
