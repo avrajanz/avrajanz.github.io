@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Research
 ---
 My research uses computational methods to trace the evolution of cultural ideas about identity. I also use field experiments to examine how complex and intersecting identity signals shape access to resources.
 
