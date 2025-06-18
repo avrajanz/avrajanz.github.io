@@ -5,7 +5,7 @@ title: Research
 My research uses computational methods to trace the evolution of cultural ideas about identity. I also use field experiments to examine how complex and intersecting identity signals shape access to resources.
 
 #### 📖 Narratives and Cultural Ideas
-In my dissertation, I use computational methods to trace the emergence and **evolution of cultural ideas about the self, identity, and agency**. Drawing on an original, large-scale dataset of digitized autobiographies, I map the historical development of now-ubiquitous ideas about the self--like the importance of being "hardworking" or "emotionally expressive." My research pinpoints the origins of gendered fractures in cultural conceptions of the self.
+In my dissertation, I use computational methods to trace the emergence and **evolution of cultural ideas about the self, identity, and agency**. Drawing on an original, large-scale dataset of digitized autobiographies, I map the historical development of now-ubiquitous ideas about the self---like the importance of being "hardworking" or "emotionally expressive." My research pinpoints the origins of gendered fractures in cultural conceptions of the self.
 
 #### 📊 Causal Modeling and Language Use
 I also model the causes and effects of language and framing choices.  With [Dennis Yi Tenen](https://dennistenen.com/) and [Moacir P. de Sá Pereira](https://moacir.com/), I'm modeling the impact of a 1990s GOP initiative that **encouraged Republicans to use emotionally charged terms** on long-term speech trends in Congress. With [Siwei Cheng](https://siwei-cheng.github.io/), I'm investigating how the **topical focus and framing of sociological conference papers** shape their probability of publication.
