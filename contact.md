@@ -1,4 +1,7 @@
-### Contact
+---
+layout: page
+title: Contact
+---
 
 Feel free to reach out to me via email:
 
