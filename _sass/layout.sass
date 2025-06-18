@@ -5,24 +5,34 @@ body
 article
   flex-grow: 1
 
+// Remove flex behavior from header/footer since there's no nav
 body > header, body > footer
-  display: flex
-  flex-wrap: wrap
-  align-items: center
-  justify-content: space-between
+  display: block
+  padding: 0
 
-body > header, body > article, body > footer
-  padding: 1.5em
+// Keep padding only on the container
+.container
+  max-width: 700px
+  width: 100%
+  margin: 0 auto
+  padding: 1.5em 2em
 
+// Optional: make article spacing more compact
 article header
-  margin-bottom: 1.5em
+  margin-bottom: 1em
 
 article header h1
   font-size: 1.7em
-  margin: 0 0 .1em
+  margin: 0
 
+// If you ever use nav again
 nav
   margin: .5em -1.2em
 
 nav a
   margin: .5em 1.2em
+
+// Optional: keep the title from having extra margin
+.title
+  margin: 0
+  padding: 0
