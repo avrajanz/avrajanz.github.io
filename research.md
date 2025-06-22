@@ -1,17 +1,21 @@
 ---
 layout: page
 ---
+
 My research uses computational methods to trace the evolution of cultural ideas about identity and the self. I also use field experiments to examine how intersecting identity signals shape access to resources.
 
-#### 📖 Narratives and Cultural Ideas
+#### <svg xmlns="http://www.w3.org/2000/svg" class="inline-block h-5 w-5" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M12 6.042A8.967 8.967 0 0 0 6 3.75c-1.052 0-2.062.18-3 .512v14.25A8.987 8.987 0 0 1 6 18c2.305 0 4.408.867 6 2.292m0-14.25a8.966 8.966 0 0 1 6-2.292c1.052 0 2.062.18 3 .512v14.25A8.987 8.987 0 0 0 18 18a8.967 8.967 0 0 0-6 2.292m0-14.25v14.25" /></svg> Mapping Cultural Change in Narratives
+
 In my dissertation, I use computational methods to trace the emergence and **evolution of cultural ideas about the self, identity, and agency**. Drawing on an original, large-scale dataset of digitized autobiographies, I map the historical development of now-ubiquitous ideas about the self---like the importance of being "hardworking" or "emotionally expressive." My research pinpoints the origins of gendered fractures in cultural conceptions of the self.
 
-#### 📊 Causal Modeling and Language Use
+#### <svg xmlns="http://www.w3.org/2000/svg" class="inline-block h-5 w-5" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M7.5 14.25v2.25m3-4.5v4.5m3-6.75v6.75m3-9v9M6 20.25h12A2.25 2.25 0 0 0 20.25 18V6A2.25 2.25 0 0 0 18 3.75H6A2.25 2.25 0 0 0 3.75 6v12A2.25 2.25 0 0 0 6 20.25Z" /></svg> Causal Modeling and Language Use
+
 I'm also interested in modeling the causes of discursive change and the social effects of language and framing choices.  With [Dennis Yi Tenen](https://dennistenen.com/) and [Moacir P. de Sá Pereira](https://moacir.com/), I'm modeling the impact of a 1990s GOP initiative that **encouraged Republicans to use emotionally charged language** on long-term trends in political speech. With [Siwei Cheng](https://siwei-cheng.github.io/), I'm investigating how the **topical focus and framing of sociological conference papers** shape their likelihood of eventual publication.
 
-#### 🧑‍🦽 Intersectional Identities and Discrimination
+#### <svg xmlns="http://www.w3.org/2000/svg" class="inline-block h-5 w-5" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M7.864 4.243A7.5 7.5 0 0 1 19.5 10.5c0 2.92-.556 5.709-1.568 8.268M5.742 6.364A7.465 7.465 0 0 0 4.5 10.5a7.464 7.464 0 0 1-1.15 3.993m1.989 3.559A11.209 11.209 0 0 0 8.25 10.5a3.75 3.75 0 1 1 7.5 0c0 .527-.021 1.049-.064 1.565M12 10.5a14.94 14.94 0 0 1-3.6 9.75m6.633-4.596a18.666 18.666 0 0 1-2.485 5.33" /></svg> Intersectional Identities and Discrimination
+
 I use experiments to investigate how individuals respond to multifaceted presentations of identity. With graduate student co-author [Nnamdi Jogwe](https://as.nyu.edu/departments/sociology/people/current-phd-students/nnamdi-jogwe.html), I fielded a **large-scale audit study on racialized disability discrimination**, sending matched actors to visit 1,600 businesses in NYC to request to urgently access the restroom due to their disability. With [Gunn Birkelund](https://www.sv.uio.no/iss/english/people/aca/gunnb/) and [Edvard Nergård Larsen](https://www.samfunnsforskning.no/english/people/res/edvardnl/), I've published a [meta-analysis on gender-based hiring discrimination](https://www.scup.com/doi/full/10.18261/issn.1504-7989-2021-03-04-03) in male- and female-dominated occupations [in Norwegian; English translation available upon request].
 
 <hr style="width: 1in; margin-top: 2em; margin-bottom: 0.5em; border: 1px solid #ccc;">
 
-Prior to beginning my Ph.D., I studied cross-national wealth inequality trends with economists [William Darity, Jr.](https://sanford.duke.edu/profile/william-darity/) and [Omer Ali](https://www.econ.pitt.edu/people/omer-ali) and anthropologist [Marta Sánchez](https://people.uncw.edu/sanchezm/). Our short article is published in [_AEA Papers & Proceedings_](https://www.aeaweb.org/articles?id=10.1257/pandp.20211114), and our extended working paper is available [here](https://drive.google.com/file/d/1Zas0R5EHyfYW_wpI-_P4kz8k8Hnz56Ow/view?usp=sharing).
+Prior to beginning my Ph.D., I studied cross-national wealth inequality trends with economists [William Darity, Jr.](https://sanford.duke.edu/profile/william-darity/) and [Omer Ali](https://www.econ.pitt.edu/people/omer-ali) and anthropologist [Marta Sánchez](https://people.uncw.edu/sanchezm/). Our short article is published in [_AEA Papers & Proceedings_](https://www.aeaweb.org/articles?id=10.1257/pandp.20211114), and our extended working paper is available [here](https://drive.google.com/file/d/1Zas0R5EHyfYW_wpI-_P4kz8k8Hnz56Ow/view?usp=)
