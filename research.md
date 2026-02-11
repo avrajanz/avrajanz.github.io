@@ -2,11 +2,11 @@
 layout: page
 ---
 
-My research uses computational methods to trace the evolution of cultural ideas about identity and the self. I also use field experiments to examine how intersecting identity signals shape access to resources.
+My research uses computational methods to trace the evolution of cultural ideas about identity and the self. I also use experimental methods to investigate questions related to identity-based discrimination. 
 
 #### <svg xmlns="http://www.w3.org/2000/svg" style="height: 1em; width: 1em; vertical-align: -0.125em; margin-right: 0.35em;" viewBox="0 0 20 20" fill="currentColor"><path d="M10.75 16.82A7.462 7.462 0 0 1 15 15.5c.71 0 1.396.098 2.046.282A.75.75 0 0 0 18 15.06v-11a.75.75 0 0 0-.546-.721A9.006 9.006 0 0 0 15 3a8.963 8.963 0 0 0-4.25 1.065V16.82ZM9.25 4.065A8.963 8.963 0 0 0 5 3c-.85 0-1.673.118-2.454.339A.75.75 0 0 0 2 4.06v11a.75.75 0 0 0 .954.721A7.506 7.506 0 0 1 5 15.5c1.579 0 3.042.487 4.25 1.32V4.065Z" /></svg>Mapping Cultural Change in Narratives
 
-In my dissertation, I use computational methods to trace the emergence and **evolution of cultural ideas about the self, identity, and agency** in the United States and the United Kingdom. Drawing on an original, large-scale dataset of digitized autobiographies, I map the historical development of now-ubiquitous ideas about the self, like the importance of being "hardworking" or "emotionally expressive." My research pinpoints the origins of gendered fractures in cultural conceptions of the self.
+In my dissertation, I use computational methods to trace the emergence and **evolution of cultural ideas about the self, identity, and agency** in autobiographies. Drawing an original, large-scale dataset of autobiographies published between 1800 and 2010, I map gendered historical change in representations of the self in the United States and United Kingdom. 
 
 #### <svg xmlns="http://www.w3.org/2000/svg" style="height: 1em; width: 1em; vertical-align: -0.125em; margin-right: 0.35em;" viewBox="0 0 20 20" fill="currentColor"><path d="M15.5 2A1.5 1.5 0 0 0 14 3.5v13a1.5 1.5 0 0 0 1.5 1.5h1a1.5 1.5 0 0 0 1.5-1.5v-13A1.5 1.5 0 0 0 16.5 2h-1ZM9.5 6A1.5 1.5 0 0 0 8 7.5v9A1.5 1.5 0 0 0 9.5 18h1a1.5 1.5 0 0 0 1.5-1.5v-9A1.5 1.5 0 0 0 10.5 6h-1ZM3.5 10A1.5 1.5 0 0 0 2 11.5v5A1.5 1.5 0 0 0 3.5 18h1A1.5 1.5 0 0 0 6 16.5v-5A1.5 1.5 0 0 0 4.5 10h-1Z" /></svg>Causal Modeling and Language Use
 
